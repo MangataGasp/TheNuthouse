@@ -49,7 +49,7 @@ export default function Navbar() {
           </ul>
 
           <div className="hidden md:block">
-            <Button href="https://wa.me/234XXXXXXXXXX" target="_blank" rel="noreferrer" icon={<FaWhatsapp size={18} />}>
+            <Button href="https://wa.me/2348141552990" target="_blank" rel="noreferrer" icon={<FaWhatsapp size={18} />}>
               WhatsApp Us
             </Button>
           </div>

@@ -17,25 +17,25 @@ export default function ContactCTA() {
         </motion.h2>
 
         <div className="mt-10">
-          <Button href="https://wa.me/234XXXXXXXXXX" variant="light" target="_blank" rel="noreferrer" icon={<FaWhatsapp size={18} />}>
+          <Button href="https://wa.me/2348141552990" variant="light" target="_blank" rel="noreferrer" icon={<FaWhatsapp size={18} />}>
             Chat with us on WhatsApp
           </Button>
         </div>
 
         <ul className="mt-16 grid gap-6 border-t border-cream/15 pt-10 sm:grid-cols-2 lg:grid-cols-4">
           <li>
-            <a href="https://wa.me/234XXXXXXXXXX" className="flex items-center gap-3 transition-colors hover:text-cashew">
+            <a href="https://wa.me/2348141552990" className="flex items-center gap-3 transition-colors hover:text-cashew">
               <FaWhatsapp size={20} /> WhatsApp
             </a>
           </li>
           <li>
-            <a href="https://instagram.com/mock-handle" className="flex items-center gap-3 transition-colors hover:text-cashew">
+            <a href="https://www.instagram.com/thenuthouse.ng?psln=enV4azU5NWthbDN5" className="flex items-center gap-3 transition-colors hover:text-cashew">
               <FaInstagram size={20} /> Instagram
             </a>
           </li>
           <li>
-            <a href="tel:+234XXXXXXXXXX" className="flex items-center gap-3 transition-colors hover:text-cashew">
-              <FaPhoneAlt size={18} /> +234 XXX XXX XXXX
+            <a href="tel:+2348141552990" className="flex items-center gap-3 transition-colors hover:text-cashew">
+              <FaPhoneAlt size={18} /> +234 814 155 2990
             </a>
           </li>
           <li className="flex items-center gap-3">

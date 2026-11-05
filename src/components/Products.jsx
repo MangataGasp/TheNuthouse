@@ -20,7 +20,7 @@ export default function Products() {
           alt="Retail pack of TheNuthouse roasted cashews"
           title="Retail Packs"
           text="Beautifully packaged cashews ready for everyday snacking."
-          href="https://wa.me/234XXXXXXXXXX?text=Hello%20TheNuthouse%2C%20I%20would%20like%20to%20order%20a%20retail%20pack."
+          href="https://wa.me/2348141552990?text=Hello%20TheNuthouse%2C%20I%20would%20like%20to%20order%20a%20retail%20pack."
         />
         <ProductCard
           tone="gold"
@@ -28,7 +28,7 @@ export default function Products() {
           alt="Wholesale supply of TheNuthouse roasted cashews"
           title="Wholesale Supply"
           text="Reliable roasted cashews for retailers and resellers."
-          href="https://wa.me/234XXXXXXXXXX?text=Hello%20TheNuthouse%2C%20I%20am%20interested%20in%20wholesale."
+          href="https://wa.me/2348141552990?text=Hello%20TheNuthouse%2C%20I%20am%20interested%20in%20wholesale."
         />
         <ProductCard
           tone="deep"
@@ -36,7 +36,7 @@ export default function Products() {
           alt="Bulk business order of TheNuthouse roasted cashews"
           title="Bulk & Business Orders"
           text="Bulk orders for offices, events, gifting and business needs."
-          href="https://wa.me/234XXXXXXXXXX?text=Hello%20TheNuthouse%2C%20I%20would%20like%20to%20place%20a%20bulk%20order."
+          href="https://wa.me/2348141552990?text=Hello%20TheNuthouse%2C%20I%20would%20like%20to%20place%20a%20bulk%20order."
         />
       </div>
     </section>

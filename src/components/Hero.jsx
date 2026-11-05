@@ -47,7 +47,7 @@ export default function Hero() {
 
           <motion.div {...fade(0.75)} className="mt-9 flex flex-wrap gap-3">
             <Button href="#contact">Make an Inquiry</Button>
-            <Button href="https://wa.me/234XXXXXXXXXX" variant="outline" target="_blank" rel="noreferrer" icon={<FaWhatsapp size={18} />}>
+            <Button href="https://wa.me/2348141552990" variant="outline" target="_blank" rel="noreferrer" icon={<FaWhatsapp size={18} />}>
               WhatsApp Us
             </Button>
           </motion.div>

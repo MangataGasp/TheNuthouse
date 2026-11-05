@@ -38,7 +38,7 @@ export default function Wholesale() {
             className="mt-9"
           >
             <Button
-              href="https://wa.me/234XXXXXXXXXX?text=Hello%20TheNuthouse%2C%20I%20would%20like%20to%20talk%20about%20wholesale."
+              href="https://wa.me/2348141552990?text=Hello%20TheNuthouse%2C%20I%20would%20like%20to%20talk%20about%20wholesale."
               variant="light"
               target="_blank"
               rel="noreferrer"
